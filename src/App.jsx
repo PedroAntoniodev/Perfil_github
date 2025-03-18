@@ -2,7 +2,7 @@ import { useState } from "react";
 
 import Perfil from "./components/Perfil";
 import ReposList from "./components/ReposList";
-import Formulario from "./components/Formulario";
+import Formulario from "./components/formulario";
 
 
 
